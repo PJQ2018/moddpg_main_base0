@@ -1,0 +1,4 @@
+Episode|data rate|Harvasted energy|fly energy consumption|Total number of EH user|sum rate|Total number of ID user|Average harvasted energy|Average number of EH user
+1|75200000|74|887.986|211.851|84686.042|0|1494.787|62417.877|20773.38|276.45|123.29
+2|73400000|74|875.778|210.025|83811.189|0|1443.934|62272.463|20094.79|279.79|119.26
+3|76600000|74|861.235|215.934|88942.012|0|1495.808|66607.510|20838.69|288.21|123.68
